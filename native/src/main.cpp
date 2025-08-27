@@ -5,7 +5,7 @@ extern "C" {
     /// @param first_addend The first integer to add.
     /// @param second_addend The second integer to add.
     /// @return The sum of first_addend and second_addend.
-    __declspec (dllexport) int __cdecl add(int first_addend, int second_addend) {
+    __declspec (dllexport) double __cdecl add(double first_addend, double second_addend) {
         return first_addend + second_addend;
     }
 
@@ -13,7 +13,7 @@ extern "C" {
     /// @param minuend The integer from which to subtract.
     /// @param subtrahend The integer to subtract.
     /// @return The result of minuend minus subtrahend.
-    __declspec (dllexport) int __cdecl subtract(int minuend, int subtrahend) {
+    __declspec (dllexport) double __cdecl subtract(double minuend, double subtrahend) {
         return minuend - subtrahend;
     }
 
@@ -21,7 +21,7 @@ extern "C" {
     /// @param multiplicand The integer to be multiplied.
     /// @param multiplier The integer to multiply by.
     /// @return The product of multiplicand and multiplier.
-    __declspec (dllexport) int __cdecl multiply(int multiplicand, int multiplier) {
+    __declspec (dllexport) double __cdecl multiply(double multiplicand, double multiplier) {
         return multiplicand * multiplier;
     }
 
@@ -29,9 +29,9 @@ extern "C" {
     /// @param dividend The integer to be divided.
     /// @param divisor The integer to divide by.
     /// @return The result of dividend divided by divisor as a double. Returns -1 if divisor is 0.
-    __declspec (dllexport) double __cdecl divide(int dividend, int divisor) {
+    __declspec (dllexport) double __cdecl divide(double dividend, double divisor) {
         if (divisor == 0) return -1; //Return -1 for division by zero to indicate error.
-        return static_cast<double>(dividend) / divisor; //Safe to perform division now, convert the dividend to double for accurate division.
+        return dividend / divisor; //Safe to perform division now, convert the dividend to double for accurate division.
     }
 
     /// @brief Raises a base to a given exponent.
