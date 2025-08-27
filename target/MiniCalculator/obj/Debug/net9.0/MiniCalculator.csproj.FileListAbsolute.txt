@@ -1,0 +1,15 @@
+C:\Users\farrm513\Documents\pinvoke_interop_examples\target\MiniCalculator\bin\Debug\net9.0\MiniCalculator.exe
+C:\Users\farrm513\Documents\pinvoke_interop_examples\target\MiniCalculator\bin\Debug\net9.0\MiniCalculator.deps.json
+C:\Users\farrm513\Documents\pinvoke_interop_examples\target\MiniCalculator\bin\Debug\net9.0\MiniCalculator.runtimeconfig.json
+C:\Users\farrm513\Documents\pinvoke_interop_examples\target\MiniCalculator\bin\Debug\net9.0\MiniCalculator.dll
+C:\Users\farrm513\Documents\pinvoke_interop_examples\target\MiniCalculator\bin\Debug\net9.0\MiniCalculator.pdb
+C:\Users\farrm513\Documents\pinvoke_interop_examples\target\MiniCalculator\obj\Debug\net9.0\MiniCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farrm513\Documents\pinvoke_interop_examples\target\MiniCalculator\obj\Debug\net9.0\MiniCalculator.AssemblyInfoInputs.cache
+C:\Users\farrm513\Documents\pinvoke_interop_examples\target\MiniCalculator\obj\Debug\net9.0\MiniCalculator.AssemblyInfo.cs
+C:\Users\farrm513\Documents\pinvoke_interop_examples\target\MiniCalculator\obj\Debug\net9.0\MiniCalculator.csproj.CoreCompileInputs.cache
+C:\Users\farrm513\Documents\pinvoke_interop_examples\target\MiniCalculator\obj\Debug\net9.0\MiniCalculator.sourcelink.json
+C:\Users\farrm513\Documents\pinvoke_interop_examples\target\MiniCalculator\obj\Debug\net9.0\MiniCalculator.dll
+C:\Users\farrm513\Documents\pinvoke_interop_examples\target\MiniCalculator\obj\Debug\net9.0\refint\MiniCalculator.dll
+C:\Users\farrm513\Documents\pinvoke_interop_examples\target\MiniCalculator\obj\Debug\net9.0\MiniCalculator.pdb
+C:\Users\farrm513\Documents\pinvoke_interop_examples\target\MiniCalculator\obj\Debug\net9.0\MiniCalculator.genruntimeconfig.cache
+C:\Users\farrm513\Documents\pinvoke_interop_examples\target\MiniCalculator\obj\Debug\net9.0\ref\MiniCalculator.dll
