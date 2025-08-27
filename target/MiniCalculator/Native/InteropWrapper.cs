@@ -1,11 +1,11 @@
 using System.Runtime.InteropServices;
 
-namespace Native
+namespace MiniCalculator.Native
 {
     /// <summary>
     /// A static class that provides interop wrappers for native functions in a DLL.
     /// </summary>
-    public static class InteropWrapper
+    internal static class InteropWrapper
     {
         /// <summary>
         /// The name of the native DLL containing the functions to be imported.
@@ -19,7 +19,7 @@ namespace Native
         /// <param name="second_addend">The second integer to add to the first integer.</param>
         /// <returns>The sum of first_addend and second_addend.</returns>
         [DllImport(DLL_NAME, CallingConvention = CallingConvention.Cdecl)]
-        public static extern int add(int first_addend, int second_addend);
+        public static extern double add(double first_addend, double second_addend);
 
         /// <summary>
         /// Subtracts one integer from another.
@@ -28,7 +28,7 @@ namespace Native
         /// <param name="subtrahend">The integer to subtract.</param>
         /// <returns>The result of minuend minus subtrahend.</returns>
         [DllImport(DLL_NAME, CallingConvention = CallingConvention.Cdecl)]
-        public static extern int subtract(int minuend, int subtrahend);
+        public static extern double subtract(double minuend, double subtrahend);
 
         /// <summary>
         /// Multiplies two integers.
@@ -37,7 +37,7 @@ namespace Native
         /// <param name="multiplier">The integer to multiply by.</param>
         /// <returns>The product of multiplicand and multiplier.</returns>
         [DllImport(DLL_NAME, CallingConvention = CallingConvention.Cdecl)]
-        public static extern double multiply(int multiplicand, int multiplier);
+        public static extern double multiply(double multiplicand, double multiplier);
 
         /// <summary>
         /// Divides one integer by another.
@@ -46,7 +46,7 @@ namespace Native
         /// <param name="divisor">The integer to divide by.</param>
         /// <returns>The result of dividend divided by divisor as a double. Returns -1 if divisor is 0.</returns>
         [DllImport(DLL_NAME, CallingConvention = CallingConvention.Cdecl)]
-        public static extern double divide(int dividend, int divisor);
+        public static extern double divide(double dividend, double divisor);
 
         /// <summary>
         /// Raises a base to a given exponent.

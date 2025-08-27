@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\farrm513\\Documents\\pinvoke_interop_examples\\target\\MiniCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20E61BC3-C125-4949-B2C0-FED10865A69F}|MiniCalculator.csproj|c:\\users\\farrm513\\documents\\pinvoke_interop_examples\\target\\minicalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E61BC3-C125-4949-B2C0-FED10865A69F}|MiniCalculator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E61BC3-C125-4949-B2C0-FED10865A69F}|MiniCalculator.csproj|c:\\users\\farrm513\\documents\\pinvoke_interop_examples\\target\\minicalculator\\managed\\calculatormanaged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E61BC3-C125-4949-B2C0-FED10865A69F}|MiniCalculator.csproj|solutionrelative:managed\\calculatormanaged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E61BC3-C125-4949-B2C0-FED10865A69F}|MiniCalculator.csproj|c:\\users\\farrm513\\documents\\pinvoke_interop_examples\\target\\minicalculator\\calculatorwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E61BC3-C125-4949-B2C0-FED10865A69F}|MiniCalculator.csproj|solutionrelative:calculatorwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E61BC3-C125-4949-B2C0-FED10865A69F}|MiniCalculator.csproj|c:\\users\\farrm513\\documents\\pinvoke_interop_examples\\target\\minicalculator\\native\\calculatornative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E61BC3-C125-4949-B2C0-FED10865A69F}|MiniCalculator.csproj|solutionrelative:native\\calculatornative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E61BC3-C125-4949-B2C0-FED10865A69F}|MiniCalculator.csproj|c:\\users\\farrm513\\documents\\pinvoke_interop_examples\\target\\minicalculator\\native\\interopwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E61BC3-C125-4949-B2C0-FED10865A69F}|MiniCalculator.csproj|solutionrelative:native\\interopwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E61BC3-C125-4949-B2C0-FED10865A69F}|MiniCalculator.csproj|c:\\users\\farrm513\\documents\\pinvoke_interop_examples\\target\\minicalculator\\interfaces\\icalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E61BC3-C125-4949-B2C0-FED10865A69F}|MiniCalculator.csproj|solutionrelative:interfaces\\icalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorManaged.cs",
+              "DocumentMoniker": "C:\\Users\\farrm513\\Documents\\pinvoke_interop_examples\\target\\MiniCalculator\\Managed\\CalculatorManaged.cs",
+              "RelativeDocumentMoniker": "Managed\\CalculatorManaged.cs",
+              "ToolTip": "C:\\Users\\farrm513\\Documents\\pinvoke_interop_examples\\target\\MiniCalculator\\Managed\\CalculatorManaged.cs",
+              "RelativeToolTip": "Managed\\CalculatorManaged.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T12:17:34.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\farrm513\\Documents\\pinvoke_interop_examples\\target\\MiniCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\farrm513\\Documents\\pinvoke_interop_examples\\target\\MiniCalculator\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T12:12:08.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICalculator.cs",
+              "DocumentMoniker": "C:\\Users\\farrm513\\Documents\\pinvoke_interop_examples\\target\\MiniCalculator\\Interfaces\\ICalculator.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICalculator.cs",
+              "ToolTip": "C:\\Users\\farrm513\\Documents\\pinvoke_interop_examples\\target\\MiniCalculator\\Interfaces\\ICalculator.cs",
+              "RelativeToolTip": "Interfaces\\ICalculator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T11:40:51.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InteropWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\farrm513\\Documents\\pinvoke_interop_examples\\target\\MiniCalculator\\Native\\InteropWrapper.cs",
+              "RelativeDocumentMoniker": "Native\\InteropWrapper.cs",
+              "ToolTip": "C:\\Users\\farrm513\\Documents\\pinvoke_interop_examples\\target\\MiniCalculator\\Native\\InteropWrapper.cs",
+              "RelativeToolTip": "Native\\InteropWrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T11:29:04.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculatorNative.cs",
+              "DocumentMoniker": "C:\\Users\\farrm513\\Documents\\pinvoke_interop_examples\\target\\MiniCalculator\\Native\\CalculatorNative.cs",
+              "RelativeDocumentMoniker": "Native\\CalculatorNative.cs",
+              "ToolTip": "C:\\Users\\farrm513\\Documents\\pinvoke_interop_examples\\target\\MiniCalculator\\Native\\CalculatorNative.cs",
+              "RelativeToolTip": "Native\\CalculatorNative.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAArwA0AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T11:29:06.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\farrm513\\Documents\\pinvoke_interop_examples\\target\\MiniCalculator\\CalculatorWrapper.cs",
+              "RelativeDocumentMoniker": "CalculatorWrapper.cs",
+              "ToolTip": "C:\\Users\\farrm513\\Documents\\pinvoke_interop_examples\\target\\MiniCalculator\\CalculatorWrapper.cs",
+              "RelativeToolTip": "CalculatorWrapper.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAUwCwAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T11:26:03.271Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

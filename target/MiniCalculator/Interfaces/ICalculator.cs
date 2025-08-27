@@ -5,10 +5,10 @@ namespace MiniCalculator.Interfaces
     /// </summary>
     public interface ICalculator
     {
-        int Add(int firstAddend, int secondAddend);
-        int Subtract(int minuend, int subtrahend);
-        double Multiply(int multiplicand, int multiplier);
-        double Divide(int dividend, int divisor);
+        double Add(double firstAddend, double secondAddend);
+        double Subtract(double minuend, double subtrahend);
+        double Multiply(double multiplicand, double multiplier);
+        double Divide(double dividend, double divisor);
         double Power(double baseValue, double exponent);
         double SquareRoot(double value);
         double FindPerpendicular(double hypotenuseLength, double baseLength);

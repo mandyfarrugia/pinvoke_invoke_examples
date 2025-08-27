@@ -1,13 +1,13 @@
-using Interfaces;
+using MiniCalculator.Interfaces;
 
 namespace MiniCalculator.Managed
 {
     public class CalculatorManaged : ICalculator
     {
-        public int Add(int firstAddend, int secondAddend) => firstAddend + secondAddend;
-        public int Subtract(int minuend, int subtrahend) => minuend - subtrahend;
-        public double Multiply(int multiplicand, int multiplier) => multiplicand * multiplier;
-        public double Divide(int dividend, int divisor) => divisor != 0 ? (double)dividend / divisor : -1;
+        public double Add(double firstAddend, double secondAddend) => firstAddend + secondAddend;
+        public double Subtract(double minuend, double subtrahend) => minuend - subtrahend;
+        public double Multiply(double multiplicand, double multiplier) => multiplicand * multiplier;
+        public double Divide(double dividend, double divisor) => divisor != 0 ? (double)dividend / divisor : -1;
         public double Power(double baseValue, double exponent) => Math.Pow(baseValue, exponent);
         public double SquareRoot(double value) => value >= 0 ? Math.Sqrt(value) : -1;
         public double FindPerpendicular(double hypotenuseLength, double baseLength)
