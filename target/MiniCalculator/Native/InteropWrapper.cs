@@ -1,3 +1,5 @@
+using System.Runtime.InteropServices;
+
 namespace Native
 {
     public static class InteropWrapper
