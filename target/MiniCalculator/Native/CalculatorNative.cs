@@ -1,0 +1,4 @@
+namespace MiniCalculator.Native
+{
+    
+}

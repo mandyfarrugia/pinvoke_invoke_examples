@@ -1,6 +1,6 @@
 using Interfaces;
 
-namespace Managed
+namespace MiniCalculator.Managed
 {
     public class CalculatorManaged : ICalculator
     {
